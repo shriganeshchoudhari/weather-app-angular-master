@@ -1,5 +1,6 @@
 # Weather App Angular
-
+## demo
+https://shriganeshchoudhari.github.io/weather-app-angular-master/
 * Search city by name.
 * Add city to the list.
 * Retrieve weather data from public API service http://openweathermap.org/
